@@ -1,0 +1,2 @@
+# animego
+Anime Go Store
